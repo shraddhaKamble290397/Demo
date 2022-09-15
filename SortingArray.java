@@ -1,7 +1,7 @@
 package Array;
 
 public class SortingArray {
-
+//change by akshay
 	public static void main(String args[]) {
 		int[]a = {99,50,45,20,4,22};
 		for(int i=0; i<a.length; i++) {
