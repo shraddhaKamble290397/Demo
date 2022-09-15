@@ -8,7 +8,7 @@ class Fabbonaci {
 	
 	  System.out.print(a+" "+b);
 	  int c;
-	  for(int i=1;i<=10;i++)
+	  for(int i=1;i<=5;i++)
 	  {
 		  c=a+b; 
 	System.out.print(" "+c);
